@@ -1,0 +1,9 @@
+url=http://www.facebook.com
+title=Welcome to Facebook - Log In, Sign Up or Learn More
+email_or_phone_id=email
+password_id=pass
+log_in_id=u_0_1
+time line button_xpath=/html/body/div[1]/div[1]/div/div/div[1]/div/div/div[1]/ul/li[1]/a/span
+num_of_frieds_xpath=/html/body/div[1]/div[2]/div[1]/div/div[2]/div[2]/div[2]/div/div/div[1]/div[3]/div/div[2]/div[2]/div/a[4]/span[1]
+copyright_xpath=/html/body/div[1]/div[2]/div[1]/div/div[2]/div[2]/div[1]/div/div/div/div[2]/div/div[2]/div[2]/span
+logout_xpath=/html/body/div[1]/div[1]/div/div/div[1]/div/div/div[1]/ul/li[7]/div/ul/li[9]/form/label/input
